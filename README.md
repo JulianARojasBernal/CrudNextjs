@@ -1,4 +1,6 @@
 # Todo List
+![image](https://github.com/JulianARojasBernal/CrudNextjs/assets/80870138/f0489f46-05f2-49f4-a289-07bcde94afb5)
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
